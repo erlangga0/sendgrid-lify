@@ -5,7 +5,7 @@ exports.senderName = "Erlangga Maulana";
 
 // set 'exports.listId = null' to add contact to all contacts, but no specific list
 // or a string with the listId to add to a specific list
-exports.listId = null;
+exports.listId = 'af18d18d-a8e1-4b02-8d60-31d84f4e9fe9';
 
 // set 'exports.templateId = null' to opt out of using a template
 // or a string with the templateId to use a template
