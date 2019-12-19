@@ -1,4 +1,4 @@
-// Change the url to the domain of yourapp
+// Change the url to the domain of your app
 exports.url = 'https://sendgridlify.herokuapp.com';
 exports.senderEmail = "erlangga.maulana@gmail.com";
 exports.senderName = "Erlangga Maulana";
